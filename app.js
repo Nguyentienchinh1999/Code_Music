@@ -32,7 +32,7 @@ const app = {
       name: "24_7",
       singer: "Celina Sharma",
       path: "./music/24-7.mp3",
-      image: "./img/Harris_j.jpg"
+      image: "./img/Harris_J.jpg"
     },
     {
       name: "Bước Qua Nhau",
